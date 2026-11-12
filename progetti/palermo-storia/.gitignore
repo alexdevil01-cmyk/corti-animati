@@ -1,0 +1,4 @@
+out/*
+!out/palermo-storia.mp4
+voices/*.onnx
+voices/*.onnx.json
