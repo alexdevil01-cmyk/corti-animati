@@ -1,0 +1,33 @@
+newmtl muro
+Kd 0.86 0.8 0.7
+
+newmtl solaio
+Kd 0.75 0.73 0.7
+
+newmtl gradino
+Kd 0.7 0.68 0.65
+
+newmtl pianerottolo
+Kd 0.7 0.68 0.65
+
+newmtl ringhiera
+Kd 0.15 0.15 0.15
+
+newmtl scala-pioli
+Kd 0.3 0.22 0.15
+
+newmtl marcapiano
+Kd 0.92 0.9 0.85
+
+newmtl cornicione
+Kd 0.92 0.9 0.85
+
+newmtl portone-chiuso
+Kd 0.35 0.22 0.12
+
+newmtl portone-aperto
+Kd 0.35 0.22 0.12
+
+newmtl persiana
+Kd 0.22 0.38 0.25
+
